@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Cool drinks
+* Hot drinks
+   * Tea
+   * Coffee
+* Milk Shakes
