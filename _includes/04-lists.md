@@ -1,5 +1,5 @@
-* Cool drinks
-* Hot drinks
+1. Cool drinks
+2. Hot drinks
    * Tea
    * Coffee
-* Milk Shakes
+3. Milk Shakes
